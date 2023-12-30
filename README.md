@@ -3,3 +3,4 @@
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
